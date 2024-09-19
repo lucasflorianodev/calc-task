@@ -1,6 +1,9 @@
 # Calculadora Simples em Python
 
 Este projeto contém uma implementação simples de uma calculadora com as operações básicas de soma, subtração, multiplicação, divisão, fatorial e potenciação. O projeto também inclui testes automatizados para garantir que cada operação funcione corretamente.
+# Feito por:
+- Lucas Floriano da Silva
+- Amanda Farias
 
 ## Funcionalidades da Calculadora
 
